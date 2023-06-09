@@ -8,6 +8,7 @@
 - Update state and trigger a re-render after receiving a response to the
   `fetch` request
 - Perform CRUD actions on arrays in state
+- Update me!
 
 ## Introduction
 
